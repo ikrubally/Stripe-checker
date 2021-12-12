@@ -1,2 +1,3 @@
 # Stripe-checker
 Credit card checker STRIPE based
+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
